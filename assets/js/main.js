@@ -39,6 +39,7 @@ sr.reveal('.button',{delay: 200});
 sr.reveal('.home__img',{delay: 400}); 
 sr.reveal('.home__social-icon',{ interval: 200}); 
 
+
 /*SCROLL ABOUT*/
 sr.reveal('.about__img',{}); 
 sr.reveal('.about__subtitle',{delay: 400}); 
@@ -56,8 +57,5 @@ sr.reveal('.work__img',{interval: 200});
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200}); 
 
-
-
-
-
-
+sr.reveal('.skills__sub',{interval:200});
+sr.reveal('.skills__textval',{interval:200});
